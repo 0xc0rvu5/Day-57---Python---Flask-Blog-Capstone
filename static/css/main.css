@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(25, 14, 39);
+  color: rgb(232, 226, 241);
+  height: 100vh;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h3 {
+  font-style: italic;
+  margin-bottom: 40px;
+  color: aqua;
+}
+
+a {
+  color: greenyellow;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+}
